@@ -2,5 +2,4 @@
 
 ![](/sleep.svg)
 
-![](/sleep.svg)
-
+![](/study.svg)
