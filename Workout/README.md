@@ -6,8 +6,8 @@
 
 晚上跳跳绳。
 
-<img src="/Workout/0823-jump-rope.jpeg" width="40%">
+<img src="/Workout/0823-jump-rope.jpeg" width="30%">
 
 ## 2021-08-24
 
-<img src="/Workout/0824-outdoor-walk.jpeg" width="40%">
+<img src="/Workout/0824-outdoor-walk.jpeg" width="30%">
