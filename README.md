@@ -2,15 +2,6 @@
 
 ![](/Sleep/sleep.svg)
 
-![](/Study/study.svg)
+![](/Focus/focus.svg)
 
 ![](/Workout/workout.svg)
-
-
-
-
-
-
-
-
-

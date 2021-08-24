@@ -11,5 +11,4 @@
 没带手机上床
 睡很香zZZ
 
-<img src="/Sleep/0824.jpeg" width="50%">
-
+<img src="/Sleep/0824.jpeg" width="40%">
