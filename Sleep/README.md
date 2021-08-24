@@ -11,5 +11,5 @@
 没带手机上床
 睡很香zZZ
 
-![](/Sleep/0824.jpeg)
+<img src="/Sleep/0824.jpeg" width="50%">
 
