@@ -17,3 +17,9 @@
 <img src="/Focus/0824.jpg" width="50%">
 
 ## 2021-08-25 wed
+
+买了 Capless 黑武士耶嘿。
+
+专注时间不多，效率还行。
+
+<img src="/Focus/0825.jpg" width="50%">
