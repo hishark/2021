@@ -19,3 +19,8 @@
 <img src="/Workout/0825-jump-rope.jpeg" width="30%">
 
 ## 2021-08-26 Thu
+
+- 周六野肩颈运动 5min*1
+- 跳绳 15min
+
+<img src="/Workout/0826-jump-rope.jpeg" width="30%">

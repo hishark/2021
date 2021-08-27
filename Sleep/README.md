@@ -25,3 +25,9 @@
 没带手机上床 3
 
 <img src="/Sleep/0826.jpeg" width="30%">
+
+## 2021-08-27 Fri
+
+没带手机上床 4
+
+<img src="/Sleep/0827.jpeg" width="30%">

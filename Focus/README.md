@@ -16,10 +16,18 @@
 
 <img src="/Focus/0824.jpg" width="50%">
 
-## 2021-08-25 wed
+## 2021-08-25 Wed
 
 买了 Capless 黑武士耶嘿。
 
 专注时间不多，效率还行。
 
 <img src="/Focus/0825.jpg" width="50%">
+
+## 2021-08-26 Thu
+
+写了一天字玩了一天钢笔 OTZ
+
+正经事耽搁了些。
+
+<img src="/Focus/0826.jpg" width="50%">
