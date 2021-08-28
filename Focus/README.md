@@ -31,3 +31,9 @@
 正经事耽搁了些。
 
 <img src="/Focus/0826.jpg" width="50%">
+
+## 2021-08-27 Fri
+
+写论文，画思维导图理清思路，XMind 真好用 👍
+
+<img src="/Focus/0827.jpg" width="50%">

@@ -2,7 +2,7 @@
 
 <g>
 
-<rect width="958" height="715" x="0" y="0" id="0" style="fill: transparent;">
+<rect width="958" height="713" x="0" y="0" id="0" style="fill: transparent;">
 
 </rect>
 
@@ -1487,6 +1487,10 @@
 </path>
 
 <path d="M 606.3255 132.25 L 622.7689 132.25 L 622.7689 144.75 L 606.3255 144.75 L 606.3255 132.25" fill="rgba(255,215,0,1)" fill-opacity="1" stroke="none">
+
+</path>
+
+<path d="M 606.3255 145.25 L 622.7689 145.25 L 622.7689 157.75 L 606.3255 157.75 L 606.3255 145.25" fill="rgba(255,215,0,1)" fill-opacity="1" stroke="none">
 
 </path>
 
