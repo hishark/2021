@@ -6,5 +6,3 @@
 
 ![](/Workout/workout.svg)
 
-
-
