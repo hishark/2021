@@ -71,3 +71,9 @@
 今天进度喜人，果然 DDL 才是第一生产力，嘿嘿。
 
 <img src="/Focus/0902.jpg" width="50%">
+
+## 2021-09-03 Fri
+
+海星。
+
+<img src="/Focus/0903.jpg" width="50%">
