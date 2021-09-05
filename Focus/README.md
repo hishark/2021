@@ -77,3 +77,9 @@
 海星。
 
 <img src="/Focus/0903.jpg" width="50%">
+
+## 2021-09-04 Sat
+
+可以，人为什么要写论文。
+
+<img src="/Focus/0904.jpg" width="50%">
