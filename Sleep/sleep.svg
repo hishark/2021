@@ -2,7 +2,7 @@
 
 <g>
 
-<rect width="933" height="819" x="0" y="0" id="0" fill="none" fill-opacity="1">
+<rect width="933" height="762" x="0" y="0" id="0" fill="none" fill-opacity="1">
 
 </rect>
 
@@ -1527,6 +1527,22 @@
 </path>
 
 <path d="M 623.2311 80.25 L 639.2028 80.25 L 639.2028 92.75 L 623.2311 92.75 L 623.2311 80.25 Z" fill="rgb(173,216,230)" fill-opacity="1" stroke="none">
+
+</path>
+
+<path d="M 623.2311 93.25 L 639.2028 93.25 L 639.2028 105.75 L 623.2311 105.75 L 623.2311 93.25 Z" fill="rgb(173,216,230)" fill-opacity="1" stroke="none">
+
+</path>
+
+<path d="M 623.2311 106.25 L 639.2028 106.25 L 639.2028 118.75 L 623.2311 118.75 L 623.2311 106.25 Z" fill="rgb(192,192,192)" fill-opacity="1" stroke="none">
+
+</path>
+
+<path d="M 623.2311 119.25 L 639.2028 119.25 L 639.2028 131.75 L 623.2311 131.75 L 623.2311 119.25 Z" fill="rgb(173,216,230)" fill-opacity="1" stroke="none">
+
+</path>
+
+<path d="M 623.2311 132.25 L 639.2028 132.25 L 639.2028 144.75 L 623.2311 144.75 L 623.2311 132.25 Z" fill="rgb(173,216,230)" fill-opacity="1" stroke="none">
 
 </path>
 
