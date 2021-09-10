@@ -108,6 +108,8 @@
 
 ## 2021-09-09 Thu
 
+<img src="/Focus/0909.jpg" width="50%">
+
 看了两部电影：
 - Good Will Hunting
 - 杀人回忆
