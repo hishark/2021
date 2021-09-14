@@ -6,7 +6,7 @@
 
 晚上跳跳绳。
 
-<img src="/Workout/0823-jump-rope.jpeg" width="25%">
+<img src="/Workout/picture/0823-jump-rope.jpeg" width="25%">
 
 ## 2021-08-24 Tue
 
@@ -16,14 +16,14 @@
 
 坐一整天蹦两下活动活动身体舒服多嘞。
 
-<img src="/Workout/0825-jump-rope.jpeg" width="25%">
+<img src="/Workout/picture/0825-jump-rope.jpeg" width="25%">
 
 ## 2021-08-26 Thu
 
 - 周六野肩颈运动 5min*1
 - 跳绳 15min
 
-<img src="/Workout/0826-jump-rope.jpeg" width="25%">
+<img src="/Workout/picture/0826-jump-rope.jpeg" width="25%">
 
 ## 2021-08-27 Fri
 
