@@ -1,5 +1,5 @@
 # 2021
 
-![](/Picture/item.jpeg)
-
-![](/Picture/August.jpeg)
+<img src="/Picture/item.jpeg" width="30%">
+<br>
+<img src="/Picture/August.jpeg" width="30%">
